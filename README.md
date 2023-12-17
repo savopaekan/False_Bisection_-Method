@@ -1,6 +1,6 @@
 Google sheet for false bisection method
 
-https://docs.google.com/spreadsheets/d/1LVrcQV2J6zzJaeewtNedHPHWj_1PmPMWiKW1IkYAo9s/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1LVrcQV2J6zzJaeewtNedHPHWj_1PmPMWiKW1IkYAo9s/edit#gid=0
 
 Python code for false bisection method
 
